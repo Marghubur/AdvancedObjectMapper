@@ -1,0 +1,12 @@
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.AssemblyInfoInputs.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.AssemblyInfo.cs
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.csproj.CoreCompileInputs.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.csproj.AssemblyReference.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AutoMapper.deps.json
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AutoMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AutoMapper.pdb
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\refint\AutoMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AutoMapper.pdb
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\ref\AutoMapper.dll

@@ -1,0 +1,14 @@
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AdvanceMapper.deps.json
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AdvanceMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AdvanceMapper.pdb
+E:\my_workspace\webApi\AutoMapper\AutoMapper\bin\Debug\net8.0\AdvanceMapper.xml
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.csproj.AssemblyReference.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.AssemblyInfoInputs.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.AssemblyInfo.cs
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.csproj.CoreCompileInputs.cache
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\refint\AdvanceMapper.dll
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.xml
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\AdvanceMapper.pdb
+E:\my_workspace\webApi\AutoMapper\AutoMapper\obj\Debug\net8.0\ref\AdvanceMapper.dll
