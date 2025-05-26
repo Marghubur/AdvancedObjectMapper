@@ -96,25 +96,8 @@ public class UserService
 MIT License
 ```
 
-This structure provides:
-
-1. **Clean Library Architecture** - Proper separation of concerns
-2. **NuGet Package Ready** - Complete `.csproj` with package metadata
-3. **Dependency Injection Integration** - Full .NET Core 8 support
-4. **Profile-based Configuration** - Clean, organized mapping setup
-5. **Type Safety** - Full IntelliSense and compile-time checking
-6. **Easy Registration** - Simple `Program.cs` setup
-7. **Production Ready** - Proper interfaces, error handling, and documentation
-
-To create the NuGet package, run:
-```bash
-dotnet pack --configuration Release
-```
-
 ```
 🤝 Contributing
 We welcome contributions! If you’d like to report a bug, request a feature, or contribute code, please submit an issue or pull request.
 
 ```
-
-The package will be ready for publishing to NuGet.org or your private feed!
